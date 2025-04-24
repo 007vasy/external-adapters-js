@@ -277,4 +277,11 @@ Sometimes when looking at the releases for an EA you might see it jumped a versi
 
 ## Advanced Features
 
-Please refer to [ea-framework-js docs](https://github.com/smartcontractkit/ea-framework-js/tree/main/docs) for topics like performance, rate limiting, caching, overrides and other advanced features.
+This repository supports several advanced features to enhance adapter performance and reliability. Please refer to [ea-framework-js docs](https://github.com/smartcontractkit/ea-framework-js/tree/main/docs) for detailed information on topics like:
+
+- Performance optimization
+- Rate limiting
+- Caching strategies
+- Configuration overrides
+- WebSocket connections
+- And other advanced features
